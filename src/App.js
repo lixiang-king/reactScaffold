@@ -19,6 +19,7 @@ class App extends Component {
         <div>测试revert</div>
         <div>hhh</div>
         <div>rebase</div>
+        <div>git add </div>
       </div>
     );
   }
