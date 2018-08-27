@@ -121,6 +121,8 @@ module.exports = {
           },
         ],
         include: paths.appSrc,
+
+         
       },
       {
         // "oneOf" will traverse all following loaders until one will
